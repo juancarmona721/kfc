@@ -1,0 +1,29 @@
+#card{
+    background-color: rgb(250, 58, 51);
+}
+input{
+    border: none;
+    border-radius: 20px;
+    height: 3rem;
+}
+
+#title-login{
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+#button-login{
+    border: none;
+    border-radius: 20px;
+    height: 3rem;
+}
+
+
+
+#row-flex{
+    display: flex;
+}
+
+.card{
+    margin: 1.2rem;
+}
